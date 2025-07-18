@@ -24,4 +24,5 @@ ez aztan globalisan es statisztikailag arra vezet, hogy az emberek, legalabbis a
 - de ettol meg azt kell jutalmazni, akinek a modellje jobban passzolt a tobbiekenel, ahhoz, hogy az a hasznosabb modell elterjedjen*
 - ezt persze a tobbseg meglehetosen igazsagtalannak fogja erezni
 - pozitiv aka. onerosito, ongerjeszto visszacsatolas is jellemzi ezt a folyamatot, mert tobb adatbol meg akkor is jobban lehet keresgelni, ha maga a keresgeles egyebkent matekilag nyugos; ergo minden kezdet nehez, es aki mar benne van egy sikeresen indulo keresesi folyamatban, dol neki a felhasznaloi adat a kezdeti MVP ertekesitese soran mondjuk, annak kicsivel tobb az eselye, mint a tobbi sotetben tapizo milliardoknak
+
 (*) szoval ennyi erovel lotto alapu civilizacionak kellene nevezni az individualista kapitalizmust, nem meritokracianak: persze osszefugg a tanult dolgokkal es megszerzett tapasztalatokkal, hogy ki mire vitte, es nyilvan a sajat privat donteseibol ered a sikere, csak azt felejtjuk el, hogy a donteseink a belso-, a tapasztalataink a kulso vilagunk veletlenszeru kovetkezmenyei...
